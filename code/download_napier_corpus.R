@@ -1,4 +1,6 @@
 
+library(rvest)
+library(polite)
 
 file.stem <- paste0("C:/Users/",
                     Sys.info()["user"],
