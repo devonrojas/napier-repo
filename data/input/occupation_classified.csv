@@ -1,0 +1,740 @@
+Name,Occupation,Place,Age,ownership,occ_clean,owner_size,occ_cat
+ANGUS MACASKILL,Crofter (formerly Fisherman),Tarbert,75,1,crofter (formerly fisherman),small,small_landowner
+ALEXANDER CARMICHAEL,30 Royal Circus,Edinburgh,nan,0,30 royal circus,NA,other
+GEORGE AULDJO JAMIESON,Accountant,Edinburgh,55,0,accountant,NA,professional
+DUNCAN LAWSON,Achnagallin,NA,26,0,achnagallin,NA,other
+ALEXANDER ROSS,Achnahannet,NA,63,0,achnahannet,NA,other
+JAMES MILLAR,Achow,Swiney,44,0,achow,NA,other
+ENEAS RANALD MACDONELL,Advocate,"Camusdarrach,  Morar,  Arisaig",60,0,advocate,NA,professional
+MURDO MACLEOD,Agent of the British Linen Company's Bank,NA,38,0,agent of the british linen company's bank,NA,professional
+DUGALD MACLACHLAN,Bank Agent and Clerk of Court at Portree,NA,41,0,bank agent and clerk of court at portree,NA,professional
+JOHN MOWAT,Bank Agent and Factor,Lybster,40,0,bank agent and factor,NA,professional
+WILLIAM T. NORQUAY,Banker,South Ronaldshay,54,0,banker,NA,professional
+Sir ALEXANDER MATHESON,Bart.,Proprietor of Lochalsh,78,0,bart.,NA,other
+Sir JOHN W. P. CAMPBELL-ORDE,Bart.,Proprietor of North Uist,56,0,bart.,NA,other
+Sir GEORGE MACPHERSON-GRANT,Bart. M.P.,Ballindalloch,44,0,bart. m.p.,NA,other
+Sir JOHN WILLIAM RAMSDEN,"Bart. Proprietor, M.P",Ardverikie,52,1,"bart. proprietor, m.p",big,landowner
+DONALD BEATON,Blacksmith,Creich,48,0,blacksmith,NA,labourer
+JOHN MACLEOD,Boat-Builder,Ness,35,0,boat-builder,NA,labourer
+DAVID WALLACE,Bratsfold,Burness,51,0,bratsfold,NA,other
+DUNCAN MACLEAN,Butcher,"Slumbae,  Loch Carron",73,0,butcher,NA,labourer
+M. ELLIOT,Butcher,Inverness,55,0,butcher,NA,labourer
+DUNCAN MACDONALD,Butcher,Inverness,52,0,butcher,NA,labourer
+FREDERICK WILLIAM TRAILL BURROUGHS,"C.B.,   Lieutenant-General",Proprietor of Rousay,52,0,"c.b.,   lieutenant-general",NA,land_worker
+JOHN FOWLER,C.E.,Proprietor of Braemore,66,0,c.e.,NA,other
+JOHN M'KINNON,Carpenter,Tobermory,83,0,carpenter,NA,labourer
+CHARLES MACKAY,Carpenter  and Member of the Town Council,Inverness,56,0,carpenter  and member of the town council,NA,labourer
+NORMAN MUNRO,Catechist,Clachan,69,0,catechist,NA,clergy
+ROBERT GEAR,Catechist,NA,50,0,catechist,NA,clergy
+Mr Mackay,Chamberlain,Lewis estates.,nan,0,chamberlain,NA,professional
+WILLIAM MACKAY,Chamberlain,Lewis Estates,nan,0,chamberlain,NA,professional
+WILLIAM MACKAY,Chamberlain,Lewis estates,nan,0,chamberlain,NA,professional
+WILLIAM MACKAY,Chamberlain,Lewis Estates,nan,0,chamberlain,NA,professional
+JAMES WYLLIE,Chamberlain of Argyll,Inveraray,52,0,chamberlain of argyll,NA,professional
+WILLIAM MACKAY,Chamberlain on the Lewis Estates,NA,56,0,chamberlain on the lewis estates,NA,professional
+PETER L. M'LAREN,"Clerk,  Secretary to the Edinburgh Highland Land Law Reform Association",Edinburgh,25,0,"clerk,  secretary to the edinburgh highland land law reform association",NA,professional
+HENRY WHYTE,Commercial Clerk,NA,30,0,commercial clerk,NA,professional
+A. S. BLACK,Commission Agent,Bonar Bridge,59,0,commission agent,NA,professional
+FRANCIS MACBEAN,Commission Agent,Grantown,43,0,commission agent,NA,professional
+ALEXANDER MORRISON,Commission Merchant,Stornoway,29,0,commission merchant,NA,professional
+JOHN MACKAY,Contractor,Hereford,61,0,contractor,NA,labourer
+ALEXANDER M'CASKILL,Cottar,Cuilore Drynoch,65,0,cottar,NA,land_worker
+ALEXANDER MACDONALD,Cottar,Saasaig,65,0,cottar,NA,land_worker
+DUNCAN MORRISON,Cottar,Finsbay,73,0,cottar,NA,land_worker
+HECTOR M'KENZIE,Cottar,Solitote,42,0,cottar,NA,land_worker
+JOHN M'KINNON,Cottar,Kilphedar,47,0,cottar,NA,land_worker
+JOHN MACPHERSON,Cottar,Kentangaval,68,0,cottar,NA,land_worker
+JOHN ROBERTSON,Cottar,Ashaig,30,0,cottar,NA,land_worker
+MALCOLM M'LEOD,Cottar,Bernera,42,0,cottar,NA,land_worker
+RODERICK M'INNES,Cottar,Glasbheinn,43,0,cottar,NA,land_worker
+SAMUEL NICOLSON,Cottar,Skerrinish,61,0,cottar,NA,land_worker
+JOHN M'LEOD,Cottar,Tarbert,70,0,cottar,NA,land_worker
+ANGUS MACKAY,Cottar,Strathy Point,80,0,cottar,NA,land_worker
+MURDO MACRAE,Cottar,Morvich,58,0,cottar,NA,land_worker
+ALEXANDER M'EACHRAN,Cottar,Strath,51,0,cottar,NA,land_worker
+DONALD M'DONALD,Cottar,NA,80,0,cottar,NA,land_worker
+DONALD MACFARLANE,Cottar,Balamartin,nan,0,cottar,NA,land_worker
+DONALD MACLEAN,Cottar,Kilmaluag,65,0,cottar,NA,land_worker
+RONALD MACDONALD,Cottar,Heanish,46,0,cottar,NA,land_worker
+ARCHIBALD CAMPBELL,Cottar,Balphuil,49,0,cottar,NA,land_worker
+DONALD SINCLAIR,Cottar,Balphuil,40,0,cottar,NA,land_worker
+DUGALD M'GREGOR,Cottar,Ardtornish,67,0,cottar,NA,land_worker
+JOHN MACRAE,Cottar,Bundaloch,64,0,cottar,NA,land_worker
+ALEXANDER M'CASKILL,Cottar and Boatman,Soay,53,0,cottar and boatman,NA,land_worker
+DUNCAN MACRAE,Cottar and Contractor,Upper Ardelve,67,0,cottar and contractor,NA,land_worker
+ALLAN M'INTYRE,Cottar and Fisherman,Castle Bay and Glen,60,0,cottar and fisherman,NA,land_worker
+JOHN M'RAE,Cottar and Fisherman,Soay,35,0,cottar and fisherman,NA,land_worker
+JOHN M'LEOD,Cottar and Fisherman,Ardhassaig,62,0,cottar and fisherman,NA,land_worker
+ANGUS FERGUSON,Cottar and Fisherman,Taransay,48,0,cottar and fisherman,NA,land_worker
+JAMES COOPER,Cottar and Fisherman,"Rothiesholm,  Stronsay",32,0,cottar and fisherman,NA,land_worker
+ALEXANDER MACRAE,Cottar and Fisherman,Letterfearn,nan,0,cottar and fisherman,NA,land_worker
+JOHN M'KINNON,Cottar and formerly Crofter in Tangasdale,Glen,69,1,cottar and formerly crofter in tangasdale,small,small_landowner
+ALEXANDER MATHIESON,Cottar and Merchant,Carabost,53,0,cottar and merchant,NA,land_worker
+HUGH CAMERON,Cottar and Sailor,Killean,45,0,cottar and sailor,NA,land_worker
+ALEXANDER CAMERON,Cottar and Taylor,Cuilore,38,0,cottar and taylor,NA,land_worker
+KENNETH CAMPBELL,"Cottar,  formerly Fisherman",Balacladich,75,0,"cottar,  formerly fisherman",NA,land_worker
+ALEXANDER LAMONT,Crofter,Keistle,59,1,crofter,small,small_landowner
+ALEXANDER M'INNES,Crofter,Kilmuir,nan,1,crofter,small,small_landowner
+ALEXANDER M'LEAN,Crofter,Lower Meiloveg,50,1,crofter,small,small_landowner
+ALEXANDER M'LENNAN,Crofter,Eilean Fladda,74,1,crofter,small,small_landowner
+ALEXANDER M'LEOD,Crofter,North Arnish,75,1,crofter,small,small_landowner
+ALEXANDER M'NEIL,Crofter,Smercleit,80,1,crofter,small,small_landowner
+ALEXANDER MACKINNON,Crofter,Cladach Carinish,70,1,crofter,small,small_landowner
+ALLAN MATHIESON,Crofter,Drumuie,50 or 55,1,crofter,small,small_landowner
+ANGUS CAMPBELL,Crofter,North Bragar,57,1,crofter,small,small_landowner
+ANGUS FRASER,Crofter,Balemore,49,1,crofter,small,small_landowner
+ANGUS M'FARLANE,Crofter,Harlosh,52,1,crofter,small,small_landowner
+ANGUS M'FIE,Crofter,Island of Flodda,70,1,crofter,small,small_landowner
+ANGUS M'KINNON,Crofter,Linicleit,60,1,crofter,small,small_landowner
+ANGUS M’LEAN,Crofter,Lower Hallistra,63,1,crofter,small,small_landowner
+ANGUS MACARTHUR,Crofter,"Kirkibost,  Bernera",55,1,crofter,small,small_landowner
+ANGUS MACDONALD,Crofter,Island of Boreray,57,1,crofter,small,small_landowner
+ANGUS PATERSON,Crofter,Kirvig,58,1,crofter,small,small_landowner
+ANGUS STEWART,Crofter,Beinn-a-chorrain,nan,1,crofter,small,small_landowner
+ARCHIBALD MACDONALD,Crofter,Garafad,37,1,crofter,small,small_landowner
+ARCHIBALD MACDONALD,Crofter,Knockline,44,1,crofter,small,small_landowner
+CHARLES M'KENZIE,Crofter,Torrin,71,1,crofter,small,small_landowner
+DONALD BEATON,Crofter,Earlish,74,1,crofter,small,small_landowner
+DONALD BEATON,Crofter,Herbosta,51,1,crofter,small,small_landowner
+DONALD BEATON,Crofter,Ferrindonald,42,1,crofter,small,small_landowner
+DONALD BUCHANAN,Crofter,Lower Olach,nan,1,crofter,small,small_landowner
+DONALD CAMPBELL,Crofter,Struanmore,55,1,crofter,small,small_landowner
+DONALD CAMPBELL,Crofter,Cregston,57,1,crofter,small,small_landowner
+DONALD M 'INNES,Crofter,Duisdale,75,1,crofter,small,small_landowner
+DONALD M'DONALD,Crofter,Kendram,34,1,crofter,small,small_landowner
+DONALD M'DONALD,Crofter,Hundlader,74,1,crofter,small,small_landowner
+DONALD M'DONALD,Crofter,Torlum,71,1,crofter,small,small_landowner
+DONALD M'KINNON,Crofter,Hallistra,51,1,crofter,small,small_landowner
+DONALD M'KINNON,Crofter,Garraheille,45,1,crofter,small,small_landowner
+DONALD M'KINNON,Crofter,Balvannich,66,1,crofter,small,small_landowner
+DONALD M'LELLAN,Crofter,Garra-na-mony,52,1,crofter,small,small_landowner
+DONALD M'QUEEN,Crofter,Conista Kilmuir,49,1,crofter,small,small_landowner
+DONALD M'QUEEN,Crofter,Middle Quarter,60,1,crofter,small,small_landowner
+DONALD MACDONALD,Crofter,South Boisdale,71,1,crofter,small,small_landowner
+DONALD MACFIE,Crofter,South Boisdale,39,1,crofter,small,small_landowner
+DONALD MACNEILL,Crofter,Glenmore,nan,1,crofter,small,small_landowner
+DONALD MARTIN,Crofter,Kylerhea,65,1,crofter,small,small_landowner
+DONALD MATHIESON,Crofter,Kilvaxter,about 40,1,crofter,small,small_landowner
+DONALD MORRISON,Crofter,Geocrab,76,1,crofter,small,small_landowner
+DONALD ROSS,Crofter,Idrigill,68,1,crofter,small,small_landowner
+DUNCAN FINLAYSON,Crofter,Upper Breakish,60,1,crofter,small,small_landowner
+EWAN MORRISON,Crofter,Drumuie,74,1,crofter,small,small_landowner
+FARQUHAR M'NEILL,Crofter,Bravaig,61,1,crofter,small,small_landowner
+FINLAY M'INNES,Crofter,Glen Bernisdale,52,1,crofter,small,small_landowner
+GEORGE SMITH,Crofter,Callernish,70,1,crofter,small,small_landowner
+HECTOR MACPHERSON,Crofter,Harrapool,55,1,crofter,small,small_landowner
+HUGH MORRISON,Crofter,Finsbay,50,1,crofter,small,small_landowner
+JAMES M'CORQUIDALE,Crofter,Carinish,77,1,crofter,small,small_landowner
+JOHN BETHUNE,Crofter,Bernisdale,nan,1,crofter,small,small_landowner
+JOHN BOYD,Crofter,Houghgarry,65,1,crofter,small,small_landowner
+JOHN CAMPBELL,Crofter,Hamara,64,1,crofter,small,small_landowner
+JOHN FERGUSON,Crofter,Carishader,67,1,crofter,small,small_landowner
+JOHN GILLIES,Crofter,South Cuil,60,1,crofter,small,small_landowner
+JOHN M'DONALD,Crofter,Roshkill,55,1,crofter,small,small_landowner
+JOHN M'KELLAG,Crofter,Hacleit,57,1,crofter,small,small_landowner
+JOHN M'KINNON,Crofter,Ferrinvicquarrie,58,1,crofter,small,small_landowner
+JOHN M'LEAN,Crofter,Hallen Park,73,1,crofter,small,small_landowner
+JOHN M'LEOD,Crofter,Iochdar,61,1,crofter,small,small_landowner
+JOHN M'PHEE,Crofter,Harlosh,74,1,crofter,small,small_landowner
+JOHN M'SWAN,Crofter,Skiniden,nan,1,crofter,small,small_landowner
+JOHN MACDONALD,Crofter,Solitote,45 or 46,1,crofter,small,small_landowner
+JOHN MACDONALD,Crofter,Tarskaveg,71,1,crofter,small,small_landowner
+JOHN MACDONALD,Crofter,Tockaveg,48,1,crofter,small,small_landowner
+JOHN MACIVER,Crofter,Breasclete,56,1,crofter,small,small_landowner
+JOHN MACKAY,Crofter,Colbost,69,1,crofter,small,small_landowner
+JOHN MACKAY,Crofter,Kilphedar,75,1,crofter,small,small_landowner
+JOHN MACKENZIE,Crofter,Malagir,68,1,crofter,small,small_landowner
+JOHN MACKENZIE,Crofter,Callernish,60,1,crofter,small,small_landowner
+JOHN MACPHERSON,Crofter,Lower Meiloveg,48,1,crofter,small,small_landowner
+JOHN MACPHERSON,Crofter,Lower Meiloveg,48,1,crofter,small,small_landowner
+JOHN MATHESON,Crofter,Upper Barvas,68,1,crofter,small,small_landowner
+JOHN MORRISON,Crofter,Loch Eport,60,1,crofter,small,small_landowner
+JOHN NICOLSON,Crofter,New Shawbost,69,1,crofter,small,small_landowner
+JOHN WALKER,Crofter,North Boisdale,83,1,crofter,small,small_landowner
+KENNETH M 'PHEE,Crofter,Edinbane,55,1,crofter,small,small_landowner
+KENNETH MACDONALD,Crofter,Stonefield,58,1,crofter,small,small_landowner
+LACHLAN MUNRO,Crofter,Bernera,60,1,crofter,small,small_landowner
+MAGNUS M’LEAN,Crofter,Husabost,50,1,crofter,small,small_landowner
+MALCOLM M'CASKILL,Crofter,Kilmuir,36,1,crofter,small,small_landowner
+MALCOLM M'INNES,Crofter,Tighary,48,1,crofter,small,small_landowner
+MALCOLM M’LEOD,Crofter,Gillen,77,1,crofter,small,small_landowner
+MALCOLM M'PHAIL,Crofter,South Shawbost,65,1,crofter,small,small_landowner
+MALCOLM NICOLSON,Crofter,Shiader,51,1,crofter,small,small_landowner
+MURDO M'LEAN,Crofter,Lealt,60,1,crofter,small,small_landowner
+MURDO M'LEAN,Crofter,Forsavriev,64,1,crofter,small,small_landowner
+MURDO M'LEAN,Crofter,Edinbane,60,1,crofter,small,small_landowner
+MURDO M'LEOD,Crofter,Deig,56,1,crofter,small,small_landowner
+NEIL M'DIARMID,Crofter,Geary,70,1,crofter,small,small_landowner
+NEIL MACLENNAN,Crofter,Breasclete Park,47,1,crofter,small,small_landowner
+NEIL NICOLSON,Crofter,Torrin,76,1,crofter,small,small_landowner
+NEIL SHAW,Crofter,Eyre,60,1,crofter,small,small_landowner
+NORMAN CAMPBELL,Crofter,Arnol,67,1,crofter,small,small_landowner
+NORMAN M'KENZIE,Crofter,Uigshader,nan,1,crofter,small,small_landowner
+NORMAN M'LEAN,Crofter,"Balchuirn,  Raasay",40,1,crofter,small,small_landowner
+NORMAN MACPHAIL,Crofter,Upper Carloway,64,1,crofter,small,small_landowner
+NORMAN MORRISON,Crofter,"Knock,  Carloway",51,1,crofter,small,small_landowner
+NORMAN ROBERTSON,Crofter,Elgoll,71,1,crofter,small,small_landowner
+PETER M'DONALD,Crofter,Glen Hinisdale,51,1,crofter,small,small_landowner
+PETER M'NAB,Crofter,Gillen,45,1,crofter,small,small_landowner
+PETER MACDONALD,Crofter,Holmasdale,54,1,crofter,small,small_landowner
+RANALD MACDONALD,Crofter,Aird,65,1,crofter,small,small_landowner
+RODERICK CAMPBELL,Crofter,Borrodale,42,1,crofter,small,small_landowner
+RODERICK ROSS,Crofter,Geocrab,63,1,crofter,small,small_landowner
+SAMUEL NICOLSON,Crofter,Balmeanach,nan,1,crofter,small,small_landowner
+WILLIAM M'LEOD,Crofter,Kinloch Dunvegan,50,1,crofter,small,small_landowner
+WILLIAM M'LURE,Crofter,Glen Bernisdale,nan,1,crofter,small,small_landowner
+MALCOLM M'LEAN,Crofter,Swainbost,64,1,crofter,small,small_landowner
+JOHN MACDONALD,Crofter,South Dell,57,1,crofter,small,small_landowner
+FARQUHAR MURRAY,Crofter,North Dell,51,1,crofter,small,small_landowner
+RODERICK MACKENZIE,Crofter,Nether Coll,75,1,crofter,small,small_landowner
+ALEXANDER MACKENZIE,Crofter,Branahine,64,1,crofter,small,small_landowner
+KENNETH M'LEOD,Crofter,Garabost,54,1,crofter,small,small_landowner
+RODERICK M'SWEEN,Crofter,Steinish,77,1,crofter,small,small_landowner
+DUNCAN MACKENZIE,Crofter,Melbost,69,1,crofter,small,small_landowner
+DONALD MACLEOD,Crofter,Lower Bayble,60,1,crofter,small,small_landowner
+JOHN SMITH,Crofter,Balallan,75,1,crofter,small,small_landowner
+JOHN M'LEOD,Crofter,Kershader,56,1,crofter,small,small_landowner
+MURDO MORRISON,Crofter,Caolas-Scalpa,50,1,crofter,small,small_landowner
+DONALD M'DONALD,Crofter,Grosaway,74,1,crofter,small,small_landowner
+LACHLAN CAMPBELL,Crofter,Scadabay,43,1,crofter,small,small_landowner
+THOMAS GREEN,Crofter,West Yell,46,1,crofter,small,small_landowner
+ANDREW SPENCE,Crofter,"Breakon, North",53,1,crofter,small,small_landowner
+ROBERT JOHNSTON,Crofter,"Tipton,  Haroldswick,  Unst",77,1,crofter,small,small_landowner
+ROBERT ROBERTSON,Crofter,"West Myres,  Scraefield,  Unst",74,1,crofter,small,small_landowner
+MAGNUS TAIT,Crofter,"Houselter,  Tingwall",66,1,crofter,small,small_landowner
+THOMAS HENDERSON,Crofter,"Olnafirth,  Delting",49,1,crofter,small,small_landowner
+WALTER SUTHERLAND,Crofter,Nesting,75,1,crofter,small,small_landowner
+GIDEON SINCLAIR,Crofter,"Torrarait,  Lunnasting",83,1,crofter,small,small_landowner
+JOHN MAXWELL,Crofter,"Housebay,  Stronsay",nan,1,crofter,small,small_landowner
+JOHN HAY,Crofter,Cross,51,1,crofter,small,small_landowner
+GEORGE LEONARD,Crofter,Triblo,67,1,crofter,small,small_landowner
+JOHN MACKAY,Crofter,Melvich,48,1,crofter,small,small_landowner
+HECTOR MUNRO,Crofter,"Scullomie,  Tongue",71,1,crofter,small,small_landowner
+PETER M'KAY,Crofter,Strathtongue,80,1,crofter,small,small_landowner
+ALEXANDER MORRISON,Crofter,Sangobeg,62,1,crofter,small,small_landowner
+JOHN ROSS,Crofter,Achresgil,75,1,crofter,small,small_landowner
+WILLIAM MATHIESON,Crofter,Clashmore,63,1,crofter,small,small_landowner
+DONALD MUNRO,Crofter,Strathan,48,1,crofter,small,small_landowner
+DUNCAN MACKENZIE,Crofter,Reef,76,1,crofter,small,small_landowner
+MURDO STEWART,Crofter,Achiltubuie,60,1,crofter,small,small_landowner
+MURDO STEWART,Crofter,Achiltubuie,60,1,crofter,small,small_landowner
+ALEXANDER MATHESON,Crofter,Ullapool,66,1,crofter,small,small_landowner
+KENNETH MACKENZIE,Crofter,South Eradale,44,1,crofter,small,small_landowner
+DONALD MACKENZIE,Crofter,"Second Coast,  Gruinard",74,1,crofter,small,small_landowner
+DONALD MACKENZIE,Crofter,"Second Coast,  Gruinard",74,1,crofter,small,small_landowner
+JOHN MACKENZIE,Crofter,Laid,74,1,crofter,small,small_landowner
+JOHN M'LEAN,Crofter,"Sand,  Gruinard",72,1,crofter,small,small_landowner
+MALCOLM M'LENNAN,Crofter,Melon Charles,64,1,crofter,small,small_landowner
+KENNETH M'LEAN,Crofter,Melon Charles,60,1,crofter,small,small_landowner
+JOHN MACDONALD,Crofter,Opinan,39,1,crofter,small,small_landowner
+GEORGE MACKENZIE,Crofter,"Fasag,  Loch Torridon",84,1,crofter,small,small_landowner
+FINLAY M'BEATH,Crofter,Deruner,64,1,crofter,small,small_landowner
+RODERICK M'BEATH,Crofter,Annat,60,1,crofter,small,small_landowner
+JOHN MACKENZIE,Crofter,Annat,72,1,crofter,small,small_landowner
+JOHN M'LENNAN,Crofter,Cuaig,63,1,crofter,small,small_landowner
+DONALD MACKENZIE,Crofter,Alt-na-stu,40,1,crofter,small,small_landowner
+DUNCAN MACRAE,Crofter,Sallachy,87,1,crofter,small,small_landowner
+CHRISTOPHER MACKENZIE,Crofter,Lower Ardelve,63,1,crofter,small,small_landowner
+DONALD MACRAE,Crofter,Camuslongart,56,1,crofter,small,small_landowner
+JOHN M'PHEE,Crofter,"Corran, Arnisdale",60,1,crofter,small,small_landowner
+JOHN M'INTYRE,Crofter,"Camusbain, Arnisdale",37,1,crofter,small,small_landowner
+DONALD MACRAE,Crofter,Cosaig,73,1,crofter,small,small_landowner
+WILLIAM M'CRIMMON,Crofter,Bernera,42,1,crofter,small,small_landowner
+RANALD MACDONALD,Crofter,Bunacaimb,30,1,crofter,small,small_landowner
+JOHN M'EACHRAN,Crofter,Back of Keppoch,70,1,crofter,small,small_landowner
+ALEXANDER M'PHERSON,Crofter,Strath,54,1,crofter,small,small_landowner
+DONALD M'VARISH,Crofter,Ardnish,64,1,crofter,small,small_landowner
+DONALD M'DOUGALL,Crofter,Balphuil,52,1,crofter,small,small_landowner
+JOHN M'FADYEN,Crofter,Caolis,42,1,crofter,small,small_landowner
+ANGUS MUNN,Crofter,Heanish,44,1,crofter,small,small_landowner
+ALEXANDER M'LEAN,Crofter,Balmeanoch,73,1,crofter,small,small_landowner
+DONALD MACDONALD,Crofter,Balamartin,nan,1,crofter,small,small_landowner
+DONALD CAMPBELL,Crofter,Kilmaluag,36,1,crofter,small,small_landowner
+NEIL M'NEIL,Crofter,Vaul,50,1,crofter,small,small_landowner
+JOHN CAMPBELL,Crofter,Bailenoe,77,1,crofter,small,small_landowner
+ALLAN M’INNES,Crofter,Creich,52,1,crofter,small,small_landowner
+ALEXANDER MACFARLANE,Crofter,Creich,75,1,crofter,small,small_landowner
+JOHN M'KINNON,Crofter,Catchean,33,1,crofter,small,small_landowner
+JOHN M'CORMICK,Crofter,Catchean,55,1,crofter,small,small_landowner
+LACHLAN MACDONALD,Crofter,Ardtum,60,1,crofter,small,small_landowner
+DUNCAN M'LEAN,Crofter,Ardtun,60,1,crofter,small,small_landowner
+MALCOLM M'LEAN,Crofter,Kinloch,38,1,crofter,small,small_landowner
+ALEXANDER MACPHERSON,Crofter,Kinloch,40,1,crofter,small,small_landowner
+DONALD MACDONALD,Crofter,Lee,82,1,crofter,small,small_landowner
+CHARLES CAMERON,Crofter,"Acharacle,  Ardnamurchan",65,1,crofter,small,small_landowner
+DUNCAN MACNAUGHTON,Crofter,"Acharacle,  Ardnamurchan",55,1,crofter,small,small_landowner
+ALEXANDER MACDONALD,Crofter,Bunavullin,nan,1,crofter,small,small_landowner
+CONNELL CONNEL,Crofter,Balnagowan,77,1,crofter,small,small_landowner
+DUNCAN M'DONALD,Crofter,Port Ramsay,73,1,crofter,small,small_landowner
+HUGH CARMICHAEL,Crofter,Port-Ramsay,57,1,crofter,small,small_landowner
+GEORGE SINCLAIR,Crofter,Latheron,55,1,crofter,small,small_landowner
+DONALD M'KAY,Crofter,"Bulldoo,  Caithness",46,1,crofter,small,small_landowner
+ALEXANDER GUNN,Crofter,"Bual,  West Helmsdale",38,1,crofter,small,small_landowner
+WILLIAM BLACK,Crofter,Pitaxie,34,1,crofter,small,small_landowner
+GEORGE MACDONALD,Crofter,Lairg,50,1,crofter,small,small_landowner
+ANGUS ROSS,Crofter,"Ballone,  Lairg",51,1,crofter,small,small_landowner
+DONALD SIMPSON,Crofter,"Achrimsdale,  Parish of Clyne",63,1,crofter,small,small_landowner
+WILLIAM INNES,Crofter,Gruids,58,1,crofter,small,small_landowner
+JOHN MILLER,Crofter,Gruids,74,1,crofter,small,small_landowner
+JOHN ROSS,Crofter,"Clunel,  Parish of Lairg",26,1,crofter,small,small_landowner
+ANGUS ROSS,Crofter,Meikle Altas  Rosehall,68,1,crofter,small,small_landowner
+ADAM MACKAY,Crofter,Bardarroch  Strathkyle,60,1,crofter,small,small_landowner
+JAMES ROSS,Crofter,Breackwell,42,1,crofter,small,small_landowner
+MURDO MUNRO,Crofter,"Goirileid,  Ospisdale",73,1,crofter,small,small_landowner
+ALEXANDER CAMPBELL,Crofter,"Ardcromie,  Balnagown Estate",69,1,crofter,small,small_landowner
+DONALD MACDONALD,Crofter,"Inchvannie,  Heights of Strathpeffer",44,1,crofter,small,small_landowner
+JOHN ROSE,Crofter,"Heights of Keppoch,  Strathpeffer",31,1,crofter,small,small_landowner
+JOHN FOWLER,Crofter,Braefindon,60,1,crofter,small,small_landowner
+ANGUS FORBES,Crofter,Highfield Park,49,1,crofter,small,small_landowner
+DONALD BAIN,Crofter,Newton of Kinkell,57,1,crofter,small,small_landowner
+KENNETH DAVIDSON,Crofter,"Upper Knockbain,  Kilcoy Estate",42,1,crofter,small,small_landowner
+JOHN M'GREGOR,Crofter,"Loch Ussie,  Brahan",60,1,crofter,small,small_landowner
+FINLAY MACKAY,Crofter,"Drynie Park,  Mulbuie",30,1,crofter,small,small_landowner
+ALEXANDER STEWART,Crofter,Strone,38,1,crofter,small,small_landowner
+COLIN MACKENZIE,Crofter,Grantown,nan,1,crofter,small,small_landowner
+MALCOLM FERGUSON,Crofter,"East End,  Iona",46,1,crofter,small,small_landowner
+DONALD MATHESON,Crofter,NA,47,1,crofter,small,small_landowner
+DAVID MACRAE,Crofter,Camusluinie,37,1,crofter,small,small_landowner
+CHRISTOPHER MACRAE,Crofter,Camusluinie,54,1,crofter,small,small_landowner
+HUGH MACKINTOSH,Crofter  and late Sergeant in the 79th Highlanders,Little Torboll,77,1,crofter  and late sergeant in the 79th highlanders,small,small_landowner
+ALEXANDER M'LEOD,Crofter (formerly Fisherman),Polban,50,1,crofter (formerly fisherman),small,small_landowner
+DONALD M'IVER,Crofter and Blacksmith,Cross of Ness,50,1,crofter and blacksmith,small,small_landowner
+DONALD STEWART,Crofter and Blacksmith,NA,53,1,crofter and blacksmith,small,small_landowner
+ALEXANDER MACKENZIE,Crofter and Carpenter,Strath of Gairloch,56,1,crofter and carpenter,small,small_landowner
+DONALD MACKENZIE,Crofter and Carpenter,"Newton of Ferintosh,  Culloden Estate",53,1,crofter and carpenter,small,small_landowner
+LACHLAN KENNEDY,Crofter and Carrier,Dervaig,33,1,crofter and carrier,small,small_landowner
+JOHN MARTIN,Crofter and Catechist,Camuscross,60,1,crofter and catechist,small,small_landowner
+MURDO MORRISON,Crofter and Constable,Lionel,72½,1,crofter and constable,small,small_landowner
+DONALD MCLEOD,Crofter and Estate Constable,North Shawbost,62,1,crofter and estate constable,small,small_landowner
+ANGUS MACLEOD,Crofter and Fish Merchant,Portnaguirin,nan,1,crofter and fish merchant,small,small_landowner
+ANGUS MACLEOD,Crofter and Fish Merchant,Portnaguirin,nan,1,crofter and fish merchant,small,small_landowner
+WILLIAM SPENCE,Crofter and Fish-Curer,Ballista,60,1,crofter and fish-curer,small,small_landowner
+ALEXANDER MACDONALD,Crofter and Fisherman,Crowlista,48,1,crofter and fisherman,small,small_landowner
+ALEXANDER MACKENZIE,Crofter and Fisherman,Boreraig,48,1,crofter and fisherman,small,small_landowner
+ALEXANDER MORRISON,Crofter and Fisherman,Forsavriev,40,1,crofter and fisherman,small,small_landowner
+ALEXANDER ROSS,Crofter and Fisherman,"Fasach,  Glendale",NA,1,crofter and fisherman,small,small_landowner
+ANGUS MACFIE,Crofter and Fisherman,Aird  Bernisdale,nan,1,crofter and fisherman,small,small_landowner
+CHARLES M'KINNON,Crofter and Fisherman,Lusta,47,1,crofter and fisherman,small,small_landowner
+CHARLES M'LEOD,Crofter and Fisherman,"Arnish,  Raasay",60,1,crofter and fisherman,small,small_landowner
+DONALD GILLIES,Crofter and Fisherman,Caoias-an-eilean,36,1,crofter and fisherman,small,small_landowner
+DONALD M'GILLIVRAY,Crofter and Fisherman,Lower Breakish,55,1,crofter and fisherman,small,small_landowner
+DONALD M'KINNON,Crofter and Fisherman,Elgoll,45,1,crofter and fisherman,small,small_landowner
+DONALD MACDONALD,Crofter and Fisherman,Dun of Carloway,50,1,crofter and fisherman,small,small_landowner
+DONALD NICOLSON,Crofter and Fisherman,Luib,48,1,crofter and fisherman,small,small_landowner
+DONALD ROBERTSON,Crofter and Fisherman,Saasaig,65,1,crofter and fisherman,small,small_landowner
+DONALD STEELE,Crofter and Fisherman,Kildonan,46,1,crofter and fisherman,small,small_landowner
+FINLAY M'INNES,Crofter and Fisherman,Waterloo,54,1,crofter and fisherman,small,small_landowner
+JOHN GILLIES,Crofter and Fisherman,Umachan,63,1,crofter and fisherman,small,small_landowner
+JOHN GILLIES,Crofter and Fisherman,Fladda,50,1,crofter and fisherman,small,small_landowner
+JOHN M 'INNES,Crofter and Fisherman,Drumfearn,67,1,crofter and fisherman,small,small_landowner
+JOHN M'CASKILL,Crofter and Fisherman,Eriskay,38,1,crofter and fisherman,small,small_landowner
+JOHN M'LEAN,Crofter and Fisherman,Oscaig,38,1,crofter and fisherman,small,small_landowner
+JOHN M'LEOD,Crofter and Fisherman,Camustionavaig,nan,1,crofter and fisherman,small,small_landowner
+JOHN MACDONALD,Crofter and Fisherman,Harrapool,65,1,crofter and fisherman,small,small_landowner
+JOHN MATHIESON,Crofter and Fisherman,Aird,42,1,crofter and fisherman,small,small_landowner
+JOHN NICOLSON,Crofter and Fisherman,"Cuillimore,  Sconser",nan,1,crofter and fisherman,small,small_landowner
+JOHN NICOLSON,Crofter and Fisherman,"Doirre-na-Guille, Rona",36,1,crofter and fisherman,small,small_landowner
+MALCOLM M'INNES,Crofter and Fisherman,Heaste,35,1,crofter and fisherman,small,small_landowner
+MICHAEL BUCHANAN,Crofter and Fisherman,Borv,40,1,crofter and fisherman,small,small_landowner
+MURDO MACDONALD,Crofter and Fisherman,"Tobson,  Berneray",49,1,crofter and fisherman,small,small_landowner
+MURDO MACLEOD,Crofter and Fisherman,Borrowston,31,1,crofter and fisherman,small,small_landowner
+MURDO NICOLSON,Crofter and Fisherman,Torrin,18,1,crofter and fisherman,small,small_landowner
+NEIL GILLIES,Crofter and Fisherman,Edinbane,45,1,crofter and fisherman,small,small_landowner
+NEIL M'LEOD,Crofter and Fisherman,Braig,35,1,crofter and fisherman,small,small_landowner
+NEIL MACPHERSON,Crofter and Fisherman,Gedentailler,nan,1,crofter and fisherman,small,small_landowner
+NORMAN M'ARTHUR,Crofter and Fisherman,Borrowston,32,1,crofter and fisherman,small,small_landowner
+NORMAN MORRISON,Crofter and Fisherman,Breanish,61,1,crofter and fisherman,small,small_landowner
+RODERICK MACKAY,Crofter and Fisherman,"Dryharbour,  Rona",56,1,crofter and fisherman,small,small_landowner
+RONALD M'FIE,Crofter and Fisherman,Lusta,46,1,crofter and fisherman,small,small_landowner
+MALCOLM MACKENZIE,Crofter and Fisherman,Sgigersta,71,1,crofter and fisherman,small,small_landowner
+DONALD MARTIN,Crofter and Fisherman,Back,46,1,crofter and fisherman,small,small_landowner
+TORQUIL M'LEOD,Crofter and Fisherman,Knock,40,1,crofter and fisherman,small,small_landowner
+JOHN STEWART,Crofter and Fisherman,Bayble,50,1,crofter and fisherman,small,small_landowner
+RODERICK M'LEOD,Crofter and Fisherman,Upper Bayble,69,1,crofter and fisherman,small,small_landowner
+DONALD M'CASKILL,Crofter and Fisherman,Sheshader,54,1,crofter and fisherman,small,small_landowner
+MURDO M'MILLAN,Crofter and Fisherman,Gravir,59,1,crofter and fisherman,small,small_landowner
+RODERICK FINLAYSON,Crofter and Fisherman,Maravaig,55,1,crofter and fisherman,small,small_landowner
+GEORGE MACRAE,Crofter and Fisherman,Grimshader,49,1,crofter and fisherman,small,small_landowner
+DONALD MACKENZIE,Crofter and Fisherman,Crossbost,68,1,crofter and fisherman,small,small_landowner
+NORMAN M'DONALD,Crofter and Fisherman,Island of Scarp,50,1,crofter and fisherman,small,small_landowner
+ANGUS CAMPBELL,Crofter and Fisherman,Plocropool,59,1,crofter and fisherman,small,small_landowner
+JOHN OMAND,Crofter and Fisherman,Mid Yell,57,1,crofter and fisherman,small,small_landowner
+BASIL SINCLAIR,Crofter and Fisherman,West Sandwick,42,1,crofter and fisherman,small,small_landowner
+DAVID PETRIE,Crofter and Fisherman,"Gossaburgh,  Mid Yell",54,1,crofter and fisherman,small,small_landowner
+DONALD MOAR,Crofter and Fisherman,Cullivoe,23,1,crofter and fisherman,small,small_landowner
+ARCHIBALD SMITH,Crofter and Fisherman,"Quoay,  Westing,  Unst",50,1,crofter and fisherman,small,small_landowner
+JOHN HARRISON,Crofter and Fisherman,"Balaster,  Unst",55,1,crofter and fisherman,small,small_landowner
+THOMAS EWANSON,Crofter and Fisherman,Papa Stour,50,1,crofter and fisherman,small,small_landowner
+WILLIAM HUTCHESON,Crofter and Fisherman,Whalsay,60,1,crofter and fisherman,small,small_landowner
+EDWARD ARTHUR,Crofter and Fisherman,Whalsay,68,1,crofter and fisherman,small,small_landowner
+THOMAS HENDERSON,Crofter and Fisherman,Whalsay,nan,1,crofter and fisherman,small,small_landowner
+JAMES POLSON,Crofter and Fisherman,Whalsay,34,1,crofter and fisherman,small,small_landowner
+LAURENCE HALCROW,Crofter and Fisherman,North Connigsburgh,nan,1,crofter and fisherman,small,small_landowner
+DAVID COOPER,Crofter and Fisherman,Stronsay,65,1,crofter and fisherman,small,small_landowner
+WILLIAM GRAY,Crofter and Fisherman,Eday,45,1,crofter and fisherman,small,small_landowner
+MURDO M'LEOD,Crofter and Fisherman,Auchnahaird,52,1,crofter and fisherman,small,small_landowner
+DUNCAN BEATON,Crofter and Fisherman,West Aligin,53,1,crofter and fisherman,small,small_landowner
+GEORGE CORMACK,Crofter and Fisherman,Bruan,39,1,crofter and fisherman,small,small_landowner
+JAMES M'NAB,Crofter and Fisherman,"Port Wemyss,  Islay",50,1,crofter and fisherman,small,small_landowner
+DONALD M'LEOD,Crofter and Fisherman,Kyle-Rona,78,1,crofter and fisherman,small,small_landowner
+DONALD MACDONALD,Crofter and Fisherman,NA,37,1,crofter and fisherman,small,small_landowner
+JOHN M'SWAN,Crofter and Fisherman,NA,52,1,crofter and fisherman,small,small_landowner
+JOHN M'SWAN,Crofter and Fisherman,NA,52,1,crofter and fisherman,small,small_landowner
+ROBERT PATERSON,Crofter and Fisherman,NA,38,1,crofter and fisherman,small,small_landowner
+JOHN HENRY,Crofter and Fisherman,NA,38,1,crofter and fisherman,small,small_landowner
+JAMES GRAY,Crofter and Fisherman,NA,50,1,crofter and fisherman,small,small_landowner
+DAVID HENRY,Crofter and Fisherman,NA,44,1,crofter and fisherman,small,small_landowner
+JOHN M'CUAIG,Crofter and Fisherman,"Corran, Arnisdale",54,1,crofter and fisherman,small,small_landowner
+ARCHIBALD FLETCHER M'GILLIVRAY,Crofter and Fisherman,"Camusbain, Arnisdale",30,1,crofter and fisherman,small,small_landowner
+GEORGE MACAULAY,Crofter and formerly Fisherman,"Hacleit,  Bernera",63,1,crofter and formerly fisherman,small,small_landowner
+JOHN MACDONALD,Crofter and formerly Fisherman,Knockaird,57,1,crofter and formerly fisherman,small,small_landowner
+DONALD CAMPBELL,Crofter and formerly Fisherman,South Tolsta,60,1,crofter and formerly fisherman,small,small_landowner
+GEORGE MACKENZIE,Crofter and formerly Fisherman,Laxay,63,1,crofter and formerly fisherman,small,small_landowner
+ALEXANDER MACKENZIE,Crofter and formerly Fisherman,"Midtown,  Inverasdale",65,1,crofter and formerly fisherman,small,small_landowner
+ANGUS MACDONALD,Crofter and Joiner,Griminish,55,1,crofter and joiner,small,small_landowner
+JAMES GUTHRIE,Crofter and Joiner,"Levasgarth,  Lady Parish",53,1,crofter and joiner,small,small_landowner
+DONALD MACPHERSON,Crofter and Joiner,"Kirkton,  Glenelg",19,1,crofter and joiner,small,small_landowner
+ALLAN CAMPBELL,Crofter and Labourer,Teangue,55,1,crofter and labourer,small,small_landowner
+DONALD M 'PHEE,Crofter and Mason,Roag,74,1,crofter and mason,small,small_landowner
+DONALD MARTIN,Crofter and Mason,Tolsta,61,1,crofter and mason,small,small_landowner
+WILLIAM FRASER,Crofter and Mason,Blackpark,62,1,crofter and mason,small,small_landowner
+JAMES LEONARD,Crofter and Mason,"Digro,  Rousay",46,1,crofter and mason,small,small_landowner
+DONALD M'LEOD,Crofter and Mason,Galder,54,1,crofter and mason,small,small_landowner
+ALEXANDER SUTHERLAND,Crofter and Mason,Roster of Clyth,37,1,crofter and mason,small,small_landowner
+KENNETH M'DONALD,Crofter and Merchant,Leurbost,45,1,crofter and merchant,small,small_landowner
+JOHN M'INTYRE,Crofter and Missionary,Sconser,nan,1,crofter and missionary,small,small_landowner
+PETER M'KINNON,Crofter and Postmaster,Lephin,55,1,crofter and postmaster,small,small_landowner
+NORMAN STEWART,Crofter and Salmon Fisher,Valtos,50,1,crofter and salmon fisher,small,small_landowner
+DUNCAN MACKAY,Crofter and Sheriff-Officer,Duirnish,37,1,crofter and sheriff-officer,small,small_landowner
+JOHN MACLEAN,Crofter and Shoemaker,"Altandu,  Coigach",NA,1,crofter and shoemaker,small,small_landowner
+MURDO MACRAE,Crofter and Shoemaker,Inverinet,55,1,crofter and shoemaker,small,small_landowner
+DONALD MACRAE,Crofter and Tailor,Cuaig,63,1,crofter and tailor,small,small_landowner
+MURDO MACKAY,Crofter and Weaver,Lionel,57,1,crofter and weaver,small,small_landowner
+ALEXANDER M'GILLIVRAY,Crofter at Aird,Sleat,60,1,crofter at aird,small,small_landowner
+ROBERT SINCLAIR,Crofter formerly Fisherman,Hamar,77,1,crofter formerly fisherman,small,small_landowner
+SAMUEL ANDERSON,Crofter formerly Fisherman,"Croagreen,  Ollabcrry",63,1,crofter formerly fisherman,small,small_landowner
+KENNETH MACKENZIE,"Crofter,  formerly Fisherman","Lots of Scoraig,  Little Loch Broom",74,1,"crofter,  formerly fisherman",small,small_landowner
+ALEXANDER ROBERTSON,"Crofter, Fisherman and Sailor",Caligary,about 60,1,"crofter, fisherman and sailor",small,small_landowner
+WILLIAM GRANT,Crofter's Brother,Letterfearn,42,1,crofter's brother,small,small_landowner
+DONALD MACLEOD,Crofter's son,"Achintighalavin,  West Strathan",53,1,crofter's son,small,small_landowner
+WILLIAM MACKENZIE,Crofter's Son,"Trantlemore,  Strath Halladale",37,1,crofter's son,small,small_landowner
+ADAM GUNN,Crofter's son,Strathy West,23,1,crofter's son,small,small_landowner
+DUNCAN MACKENZIE,Crofter's Son,Lots of Scoraig,35,1,crofter's son,small,small_landowner
+KENNETH FINLAYSON,Crofter's Son,Avernish,38,1,crofter's son,small,small_landowner
+FARQUHAR M'BEATH,Crofter's Son,Kinnamoine,30,1,crofter's son,small,small_landowner
+COLIN MACDONALD,Crofter's Son,Bunacaimb,35,1,crofter's son,small,small_landowner
+DONALD M'DONALD,Crofter's Son,Back of Keppoch,38,1,crofter's son,small,small_landowner
+ADAM BANNERMAN,Crofter's Son,"Marrel,  Parish of Kildonan",27,1,crofter's son,small,small_landowner
+JOHN CAMPBELL,Crofter's Son,Balvraid Muir,52,1,crofter's son,small,small_landowner
+ALEXANDER MACLENNAN,Crofter's Son,Letterfearn,38,1,crofter's son,small,small_landowner
+EWAN ROBERTSON,Crofter's son and carpenter,Tongue Village,44,1,crofter's son and carpenter,small,small_landowner
+JOHN FRASER,Crofter's Son and Labourer,"Gartamore,  Parish of Kildonan",31,1,crofter's son and labourer,small,small_landowner
+ALEXANDER MACRAE,Crofter's Son and Shoemaker,Inverinet,34,1,crofter's son and shoemaker,small,small_landowner
+JOHN CAMPBELL,Crofter's Son and Soldier,NA,nan,1,crofter's son and soldier,small,small_landowner
+MURDOCH KERR,"Crofter's Son,  formerly a Fisherman",Auchmelvich,55,1,"crofter's son,  formerly a fisherman",small,small_landowner
+ANGUS MACKAY,Crofters' son,"Cattlefield,  Farr",22,1,crofters' son,small,small_landowner
+THOMAS JENKINS,Curer,Burghead,45,0,curer,NA,labourer
+JOHN RANALD M'ISAAC,Dalnabreac,Moidart,66,0,dalnabreac,NA,other
+ALEXANDER MACKENZIE,Dean of Guild,Inverness,44,0,dean of guild,NA,other
+RODERICK M'MILLAN,Draper and Grocer,Portree,43,0,draper and grocer,NA,labourer
+JOSEPH CLEMENT GORDON,Drimnin,NA,nan,0,drimnin,NA,other
+MURDOCH M'KINNON,Earsary,NA,60,0,earsary,NA,other
+JOHN STUART BLACKIE,Emeritus-Professor of Greek in the University of Edinburgh,Edinburgh,74,0,emeritus-professor of greek in the university of edinburgh,NA,professional
+JAMES M. ANDERSON,Esq.  S.S.C.,Edinburgh,43,0,esq.  s.s.c.,NA,professional
+JOHN ROBERTSON,Esq. Farmer and Factor,Grishornish,60,0,esq. farmer and factor,NA,land_worker
+ALEXANDER MACDONALD,Esq. of Treaslane and Factor,Portree,nan,0,esq. of treaslane and factor,NA,professional
+Rev. WILLIAM CAMERON,Established Church Minister,Lochbroom,80,0,established church minister,NA,clergy
+Rev. DONALD MACCALLUM,Established Church Minister,Arisaig,32,0,established church minister,NA,clergy
+Mr JOSEPH PEACOCK,Factor,Dunrobin District of the Sutherland Estates,59,0,factor,NA,professional
+RODERICK MACLEAN,Factor,Ardross,54,0,factor,NA,professional
+JAMES MOLLISON,Factor,Dochfour,55,0,factor,NA,professional
+WILLIAM MACKAY,Factor and Farmer,and Chief Magistrate of the Town of Thurso,39,0,factor and farmer,NA,land_worker
+KENNETH MACKAY,Factor and Hotel-Keeper,Portinleck,nan,0,factor and hotel-keeper,NA,professional
+JOHN FORSYTH,Factor for Balnagown,NA,61,0,factor for balnagown,NA,professional
+BENJAMIN SWANSON,"Factor for Dr Traill,  and Ground Officer","North Ronaldshay,  Sanday",37,0,"factor for dr traill,  and ground officer",NA,professional
+Mr ALEXANDER MACDONALD,Factor for Lord Macdonald,NA,nan,0,factor for lord macdonald,NA,professional
+ADAM HOON,Factor for Mr Hebden of Eday. residing at Carrick,NA,59,0,factor for mr hebden of eday. residing at carrick,NA,professional
+JOHN FORSYTH,Factor for Sir Charles Ross of Balnagowan,Balnagowan,61,0,factor for sir charles ross of balnagowan,NA,professional
+EVANDER M'IVER,Factor for the Duke of Sutherland in the Scourie District,Scourie,71,0,factor for the duke of sutherland in the scourie district,NA,professional
+ALLAN MACDONALD,Factor for The Mackintosh,Inverness,39,0,factor for the mackintosh,NA,professional
+WILLIAM GUNN,Factor on the Cromartie Estate,Strathpeffer,44,0,factor on the cromartie estate,NA,professional
+JOHN MACDONALD,Factor on the Estate of North Uist,Newton,56,0,factor on the estate of north uist,NA,professional
+JOHN CRAWFORD,Factor on the Sutherland Estates,Tongue District,71,0,factor on the sutherland estates,NA,professional
+ALEXANDER MACDONALD,"Factor, Solicitor, and Bank Agent in Portree, and Proprietor of Treaslane",Portree,42,1,"factor, solicitor, and bank agent in portree, and proprietor of treaslane",big,landowner
+DONALD MACDONALD,Farmer,Tormore,46,0,farmer,NA,land_worker
+DONALD MACDONALD,Farmer,Tormore,46,0,farmer,NA,land_worker
+HUGH MACRAE,Farmer,Lettermore,33,0,farmer,NA,land_worker
+KENNETH MACDONALD,Farmer,Scarista-vore,70,0,farmer,NA,land_worker
+MURDO NICOLSON,Farmer,Loanfearn,nan,0,farmer,NA,land_worker
+JOHN MACPHERSON,Farmer,Islesburgh,32,0,farmer,NA,land_worker
+WALTER TRAILL DENISON,Farmer,West Park  Cross,53,0,farmer,NA,land_worker
+JOHN BROWN,Farmer,"Kelton,  St Ola",54,0,farmer,NA,land_worker
+JAMES MILLIGAN,Farmer,Arnisdale,46,0,farmer,NA,land_worker
+LACHLAN M'PHAIL,Farmer,Kilmoluag,50,0,farmer,NA,land_worker
+JAMES THOMAS SHAW,Farmer,"Barr,  Mongastell",31,0,farmer,NA,land_worker
+ALEXANDER M'COLL,Farmer,Park,39,0,farmer,NA,land_worker
+DUGALD M’INTYRE,Farmer,Frackersaig,41,0,farmer,NA,land_worker
+JAMES WATERS,Farmer,"Bower,  Caithness",65,0,farmer,NA,land_worker
+JAMES PURVES,Farmer,"Barrogill Mains,  Caithness",NA,0,farmer,NA,land_worker
+GEORGE ANDERSON,Farmer,"Kincardine,  Balnagown Estate",53,0,farmer,NA,land_worker
+THOMAS PURVES,Farmer,Rhyfail,61,0,farmer,NA,land_worker
+JOHN MACARTHUR,Farmer,Ettridge,66,0,farmer,NA,land_worker
+JOHN MACDONALD,Farmer and Factor,"Newton, North Uist",nan,0,farmer and factor,NA,land_worker
+JOHN ANDERSON,"Farmer,  Merchant  and Fish-Curer",Hillswick,60,0,"farmer,  merchant  and fish-curer",NA,land_worker
+JOHN SUTHERLAND,Feuar and Tenant,Rosehall,52,1,feuar and tenant,small,small_landowner
+THOMAS Ross,Fish Curer,"Burghead,  Morayshire",57,0,fish curer,NA,labourer
+JAMES M'COMBIE,Fish-Curer,Peterhead,42,0,fish-curer,NA,labourer
+JAMES INNES STEWART,Fish-Curer,Lybster,59,0,fish-curer,NA,labourer
+GEORGE SINCLAIR,Fish-Curer and Merchant,Ollaberry,42,0,fish-curer and merchant,NA,professional
+KENNETH M'RAE,Fisherman,Dunan,54,0,fisherman,NA,labourer
+NEIL MATHESON,Fisherman,Bunessan,60,0,fisherman,NA,labourer
+WALTER WILLIAMSON,Fisherman and Crofter,Burra Isle,59,1,fisherman and crofter,small,small_landowner
+ALEXANDER ROSS,Foindale,Scourie,74,0,foindale,NA,other
+JOHN MACKENZIE,formerly Crofter,Leckmelm,64,1,formerly crofter,small,small_landowner
+JOHN M'DIARMID,formerly Crofter and Fisherman,Scalpa,88,1,formerly crofter and fisherman,small,small_landowner
+Rev. MATTHEW ARMOUR,Free Church,Sanday,63,0,free church,NA,other
+Rev. DONALD DINGWALL,Free Church,Poolewe,48,0,free church,NA,other
+NORMAN M'LEAN,Free Church Catechist,Barra,48,0,free church catechist,NA,clergy
+Rev. ALEXANDER DAVIDSON,Free Church Minister,Harris,70,0,free church minister,NA,clergy
+Rev. DONALD M'LEAN,Free Church Minister,Carinish,60,0,free church minister,NA,clergy
+Rev. FINLAY GRAHAM,Free Church Minister,Sleat,42,0,free church minister,NA,clergy
+Rev. RODERICK MACKENZIE,Free Church Minister,Tarbert,45,0,free church minister,NA,clergy
+Rev. JAMES CUMMING,Free Church Minister,Melness,62,0,free church minister,NA,clergy
+Rev. JOHN ROSS MACNEILL,Free Church Minister,Tongue,37,0,free church minister,NA,clergy
+Rev. JOHN STUART MACKAY,Free Church Minister,"Alt-na-harra,  Strathnaver",45,0,free church minister,NA,clergy
+Rev. DONALD MACKENZIE,Free Church Minister,Farr,54,0,free church minister,NA,clergy
+Rev. JAMES ROSS,Free Church Minister,Durness,66,0,free church minister,NA,clergy
+Rev. JOHN M'MILLAN,Free Church Minister,Loch Broom,nan,0,free church minister,NA,clergy
+Rev. ALEXANDER MACKAY,Free Church Minister,Rogart,nan,0,free church minister,NA,clergy
+Rev. JOHN M'TAVISH,Free Church Minister,Inverness,67,0,free church minister,NA,clergy
+Rev. JAMES CALDER MACPHAIL,Free Church Minister,"Pilrig Church,  Edinburgh",61,0,free church minister,NA,clergy
+Rev. WILLIAM HALL TELFORD,Free Church Minister,"Reston, Berwickshire",35,0,free church minister,NA,clergy
+Rev. GUSTAVUS AIRD,Free Church Minister of Creich,NA,70,0,free church minister of creich,NA,clergy
+Rev. DUNCAN FINLAYSON,"Free Church Minister,  Parish of Eddriachillis",Kinlochbervie,nan,0,"free church minister,  parish of eddriachillis",NA,clergy
+PETER SMITH,Garth,NA,52,0,garth,NA,other
+HUGH MACKAY,General Merchant,Greenock,60,0,general merchant,NA,professional
+THOMAS GRAHAME,Glasgow,General Agent for Scotland of the Dominion Government of Canada,43,0,glasgow,NA,other
+ANDREW GOLD,Graham Bank,Kirkwall,62,0,graham bank,NA,other
+JOHN M'DONALD,Gramisdale,NA,75,0,gramisdale,NA,other
+ANGUS M'INNES,Grocer and Merchant,Beinsoraig,60,0,grocer and merchant,NA,professional
+ALEXANDER MACHARDY,Ground officer,Farr,43,0,ground officer,NA,professional
+DONALD M'LENNAN,Ground Officer,Estate of Lochcarron,58,0,ground officer,NA,professional
+JOHN MACKENZIE,Ground Officer,"Camustroil,  Torridon",77,0,ground officer,NA,professional
+DONALD MACLENNAN,Ground Officer,NA,nan,0,ground officer,NA,professional
+Mr THOMAS SELLAR,Hall Grove,"Bagshot, Surrey",63,0,hall grove,NA,other
+JAMES ROBERTSON,Happy Hansel,Parish of Walls,37,0,happy hansel,NA,other
+JOHN MACKAY,Hereford,NA,nan,0,hereford,NA,other
+DAVID ISBISTER,Hybrock,Harray,38,0,hybrock,NA,other
+JAMES M. BARCLAY,"Inspector of Poor, Clerk to the School Board,  and Collector of Rates",Mid and South Yell,38,0,"inspector of poor, clerk to the school board,  and collector of rates",NA,professional
+ALEXANDER ROBERTSON,Journalist,Edinburgh,58,0,journalist,NA,professional
+General Sir ARNOLD BURROWES KEMBALL,K.C.B.  Commissioner on the Sutherland Estates,K.C.S.I.. Uppat House,62,0,k.c.b.  commissioner on the sutherland estates,NA,professional
+HUGH McNab,Kildonan,Lynedale,nan,0,kildonan,NA,other
+ANN MACDONALD,Kilmore,NA,60,0,kilmore,NA,other
+DONALD M 'LEOD,Labourer,Garamore,27,0,labourer,NA,labourer
+JAMES MURRAY,Labourer,Cattlefield,47,0,labourer,NA,labourer
+WILLIAM MACKENZIE,Labourer,presently residing at Clashnessie,38,0,labourer,NA,labourer
+DUNCAN CAMPBELL,Labourer,Oban,69,0,labourer,NA,labourer
+ALEXANDER BUCHANAN,Labourer,Killean,60,0,labourer,NA,labourer
+DUGALD CARMICHAEL,Labourer,Balamaillachean,34,0,labourer,NA,labourer
+JAMES SUTHERLAND,Labourer,Clash-na-prountenach,63,0,labourer,NA,labourer
+ALEXANDER CAMERON,Labourer and Cottar,Lochaline,50,0,labourer and cottar,NA,land_worker
+DONALD MACKAY,Laid,Port-na-Con,60,0,laid,NA,other
+GEORGE GREIG,Land Improvement Commissioner,Auchintoul Lodge,49,0,land improvement commissioner,NA,professional
+Mrs MARY CARMICHAEL,late of Park,NA,nan,0,late of park,NA,other
+JOHN M'DONALD NIMMO,Law Agent in Wick,and Factor for Mr Sutherland of Forse,59,0,law agent in wick,NA,professional
+ALEXANDER M'LENNAN,Letterfearn,Glenshiel,nan,0,letterfearn,NA,other
+WILLIAM GRANT,Letterfearn,Glenshiel,nan,0,letterfearn,NA,other
+RODERICK ROSS,Licentiate of the Royal College of Physicians and Surgeons,Edinburgh,42,0,licentiate of the royal college of physicians and surgeons,NA,professional
+ALEXANDER DUNCAN FRASER,M.B.,Edin.,nan,0,m.b.,NA,other
+ALEXANDER M'KECHNIE,M.B. and CM. Glasgow University,Bunessan,31,0,m.b. and cm. glasgow university,NA,other
+NICOL MARTIN,M.D.,Husabost,83,0,m.d.,NA,other
+ANGUS BEATON,Manager,Skeabost,47,0,manager,NA,professional
+DONALD MACKENZIE,Manager,NA,nan,0,manager,NA,professional
+WILLIAM HENDERSON HARDIE,Managing Trustee,Lochaline Estate,51,0,managing trustee,NA,other
+EDWARD CHARLES STANFORD,Manufacturing Chemist,Dalmuir,46,0,manufacturing chemist,NA,other
+MALCOLM MACPHERSON,Mason,Kilmore,45,0,mason,NA,labourer
+JAMES WILLIAM BRUCE,Mason,Ballista,nan,0,mason,NA,labourer
+ANGUS M’INNES,Mason,Tobermory,66,0,mason,NA,labourer
+MALCOLM M'LACHLAN,Mason,Barr,49,0,mason,NA,labourer
+JAMES WILLIAM BRUCE,"Mason, son of a Crofter",Ballista,43,1,"mason, son of a crofter",small,small_landowner
+JAMES BEATON,Master Mariner,Tobermory,66,0,master mariner,NA,other
+JOHN MACDONALD,Master Mariner,Tobermory,45,0,master mariner,NA,other
+WILLIAM DAVIDSON,Meadow Bank,Sandwick,61,0,meadow bank,NA,other
+DONALD ROSS,Merchant,Culnacnock,52,0,merchant,NA,professional
+JOHN ROBERTSON,Merchant,Portree,42,0,merchant,NA,professional
+ALEXANDER MURRAY,Merchant,Stornoway,46,0,merchant,NA,professional
+ARTHUR JAMES HAY,Merchant,Lerwick,47,0,merchant,NA,professional
+ALEXANDER WALKER,Merchant,Mid Yell,28,0,merchant,NA,professional
+JOHN M'IVER,Merchant,Scoraig,53,0,merchant,NA,professional
+ALEXANDER LIVINGSTON,Merchant,Fearnabeg,47,0,merchant,NA,professional
+SINCLAIR COOPER,Merchant,Helmsdale,44,0,merchant,NA,professional
+JOHN SUTHERLAND,Merchant,Pittentrail,40,0,merchant,NA,professional
+ANGUS MATHESON POLSON,Merchant,Golspie,32,0,merchant,NA,professional
+JOHN MACDONALD,Merchant,Inverness,39,0,merchant,NA,professional
+WILLIAM MACDOUGALL,Merchant,Grantown,40,0,merchant,NA,professional
+HUGH MACKAY,Merchant,Greenock,60,0,merchant,NA,professional
+ALEXANDER SANDISON,Merchant and Fish-curer,Uyea Sound,56,0,merchant and fish-curer,NA,professional
+ANGUS MACAULAY,Middle Quarter,NA,30,0,middle quarter,NA,other
+ANGUS MACAULAY,Middle Quarter,NA,30,0,middle quarter,NA,other
+Rev. CHARLES MACDONALD,Mingarry,"Moidart, Ardnamurchan",49,0,mingarry,NA,other
+Rev. JOHN M'LEAN,Minister,Bracadale,43,0,minister,NA,clergy
+JAMES A. CAMPBELL,Minister,Fetlar,38,0,minister,NA,clergy
+Rev. DAVID WILLIAMSON,Minister of Assynt,NA,84,0,minister of assynt,NA,clergy
+Rev. EVAN GORDON,Minister of Duke Street Free Gaelic Church,NA,59,0,minister of duke street free gaelic church,NA,clergy
+Rev. GEORGE CLARK,Minister of Free Church,Coningsburgh,39,0,minister of free church,NA,clergy
+Rev. GEORGE CLARK,Minister of Free Church,Coningsburgh,39,0,minister of free church,NA,clergy
+Rev. JAMES M'DONALD,Minister of Glenelg,NA,55,0,minister of glenelg,NA,clergy
+Rev. DAVID JOHNSTON,Minister of Harray and Birsay,NA,47,0,minister of harray and birsay,NA,clergy
+The Rev. J. R. SUTHERLAND,Minister of North Mavin,NA,66,0,minister of north mavin,NA,clergy
+Rev. JAMES FRASER,Minister of the Congregational Church,Sulem,70,0,minister of the congregational church,NA,clergy
+Rev. ALEXANDER CAMERON,Minister of the Established Church,Sleat,nan,0,minister of the established church,NA,clergy
+Rev. JAMES M'CULLOCH,Minister of the Free Church,Latheron,nan,0,minister of the free church,NA,clergy
+Rev. JOHN M'NEILL,Minister of the Free Church,"Port-na-haven,  Islay",39,0,minister of the free church,NA,clergy
+Rev. MURDOCH MACASKILL,Minister of the Free Gaelic Church,Greenock,45,0,minister of the free gaelic church,NA,clergy
+Rev. JAMES GREENFIELD,Minister of the Gaelic Free Church,Stornoway,51,0,minister of the gaelic free church,NA,clergy
+Rev. JOHN ALEXANDER MACRAE,Minister of the Parish,North Uist,51,0,minister of the parish,NA,clergy
+Rev. RODERICK MACDONALD,Minister of the Parish,South Uist,60,0,minister of the parish,NA,clergy
+Rev. JAMES STRACHAN,Minister of the Parish of Barvas,NA,56,0,minister of the parish of barvas,NA,clergy
+Rev. RODERICK MORRISON,Minister of the Parish of Kintail,NA,nan,0,minister of the parish of kintail,NA,clergy
+Rev. RODERICK MORISON,Minister of the Parish of Kintail,NA,nan,0,minister of the parish of kintail,NA,clergy
+Rev. DONALD MACKINNON,Minister of the Parish of Strath,NA,67,0,minister of the parish of strath,NA,clergy
+JOHN MUNRO,Missionary,West Coast Mission,68,0,missionary,NA,clergy
+JOHN MACDONALD,Newton,Factor on the Estate of North Uist,56,0,newton,NA,other
+MALCOLM MACKENZIE,North Eradale,NA,68,0,north eradale,NA,other
+DONALD STEPHEN,Northtown,Birsay,36,0,northtown,NA,other
+Rev. THOMSON MACKAY,Parish Minister,Tongue,35,0,parish minister,NA,clergy
+GEORGE MORRISON,Pastor of the Congregational Church,NA,26,0,pastor of the congregational church,NA,clergy
+JOHN MACKAY,Pavior,Edinburgh,83,0,pavior,NA,labourer
+JOHN NICOLSON,Pensioner and Crofter,Tote,nan,1,pensioner and crofter,small,small_landowner
+THOMAS ABERNETHY,Pettester,Unst,60,0,pettester,NA,labourer
+Rev. Mr REID,Portree,NA,nan,0,portree,NA,other
+WILLIAM SUTHERLAND FRASER,Procurator-Fiscal  and Factor for the Estates of Achany and Gruids,Dornoch,82,0,procurator-fiscal  and factor for the estates of achany and gruids,NA,professional
+CHARLES JAMES MURRAY,Proprietor,Lochcarron,31,1,proprietor,big,landowner
+ALEXANDER ALLAN,Proprietor,Aros and Tobermory,38,1,proprietor,big,landowner
+GEORGE GRANT MACKAY,Proprietor,Glengloy,57,1,proprietor,big,landowner
+OSGOOD HENRY MACKENZIE,Proprietor and Farmer,Inverewe,41,1,proprietor and farmer,big,landowner
+ANDREW MITCHELL,Proprietor and Farmer,"Drumderfit, Inverness",41,1,proprietor and farmer,big,landowner
+ALEXANDER M'INTYRE,Proprietor and Farmer,Ardalanish,60,1,proprietor and farmer,big,landowner
+ADAM SHARP,Proprietor of Clyth,NA,66,1,proprietor of clyth,big,landowner
+Lord TWEEDMOUTH,Proprietor of Guisachan,Beauly,62,1,proprietor of guisachan,big,landowner
+DONALD STEWART,Proprietor of Kirkmickael,Perthshire,67,1,proprietor of kirkmickael,big,landowner
+JOHN BAIRD,Proprietor of Knoydart,NA,31,1,proprietor of knoydart,big,landowner
+ALEXANDER GEORGE PIRIE,Proprietor of Leckmelm,NA,47,1,proprietor of leckmelm,big,landowner
+LACHLAN MACDONALD,Proprietor of Skeabost,NA,50,1,proprietor of skeabost,big,landowner
+Captain ALLAN MACDONALD,Proprietor of Waternish,NA,60,1,proprietor of waternish,big,landowner
+ALEXANDER FRASER,Provost of Inverness,Factor for Culloden and Ferintosh,61,0,provost of inverness,NA,professional
+Sir WILLIAM COLLINS,Publisher,NA,66,0,publisher,NA,professional
+DUGALD BUCHANAN,Quarryman,Balnagowan,50,0,quarryman,NA,labourer
+JOHN MACKAY,Railway Contractor,and resident at Hereford,61,0,railway contractor,NA,labourer
+ANDREW MITCHELL,Rattagan,NA,31,0,rattagan,NA,other
+MURDOCH MACDONALD,residing with his aunt and working her crofts,Knockan,33,0,residing with his aunt and working her crofts,NA,other
+COLIN CHISHOLM,retired Custom-House Officer,Inverness,72,0,retired custom-house officer,NA,professional
+JAMES MACDONALD,Retired Revenue Officer,now residing in Edinburgh,81,0,retired revenue officer,NA,professional
+JOHN MURDOCH,retired Supervisor of Excise,"Carmunnock,  Glasgow",65,0,retired supervisor of excise,NA,professional
+JOHN MURDOCH,retired Supervisor of Excise,"Carmunnock,  Glasgow",65,0,retired supervisor of excise,NA,professional
+The Rev. JAMES CHISHOLM,Roman Catholic Clergyman,Barra,29,0,roman catholic clergyman,NA,clergy
+Rev. DONALD M'COLL,Roman Catholic Priest,Iochdar,47,0,roman catholic priest,NA,clergy
+Rev. JOHN CAMERON,Roman Catholic Priest,Dornie,41,0,roman catholic priest,NA,clergy
+Rev. ARCHIBALD MACCALLUM,Rousay,NA,30,0,rousay,NA,other
+Captain THOMAS ANTHONY SWINBURNE,Royal Navy,Proprietor of Eilean Shona,63,0,royal navy,NA,other
+JOHN LAWSON,Salmon Fisher,Portree,58,0,salmon fisher,NA,labourer
+KENNETH MACDONALD,Scaristavore,Factor for North Harris,70,0,scaristavore,NA,other
+DONALD LOGAN,Schoolmaster,Broadford,43,0,schoolmaster,NA,professional
+DUNCAN STEWART,Schoolmaster,Stein,nan,0,schoolmaster,NA,professional
+HEW MORRISON,Schoolmaster,"Brechin,  Forfarshire",33,0,schoolmaster,NA,professional
+DONALD CAMERON,Schoolmaster,Creich,41,0,schoolmaster,NA,professional
+JOHN CAMERON,Schoolmaster,Lochaline,52,0,schoolmaster,NA,professional
+DUNCAN SINCLAIR,Schoolmaster and Registrar for the Parish of Lochalsh,Auchtertyre,44,0,schoolmaster and registrar for the parish of lochalsh,NA,professional
+KENNETH MACKENZIE,Seaman and Fisherman,Shieldaig,50,0,seaman and fisherman,NA,labourer
+KENNETH CAMPBELL,Shepherd,Farm of Corrie,36 and 40,0,shepherd,NA,labourer
+FARQUHAR MACRAE,Shepherd,Bundaloch,38,0,shepherd,NA,labourer
+CHARLES RAMPINI,Sheriff-Substitute,Lerwick,42,0,sheriff-substitute,NA,professional
+JOHN CAMPBELL MELLIS,Sheriff-Substitute of Orkney,NA,38,0,sheriff-substitute of orkney,NA,professional
+ALEXANDER MACGREGOR,Shipwright,Strath of Gairloch,35,0,shipwright,NA,labourer
+LACHLAN M'QUARIE,Shoemaker,Salen,73,0,shoemaker,NA,labourer
+JOHN M'CASKILL,Shoemaker and Cotter,Ferrinlea,43,0,shoemaker and cotter,NA,labourer
+JOHN MACDONALD,Shopman in the Clothing Trade,Glasgow,36,0,shopman in the clothing trade,NA,labourer
+WILLIAM MUIR,Small Farmer and Trader,Sanday,42,0,small farmer and trader,NA,land_worker
+JAMES ROSS,Solicitor,Inverness,41,0,solicitor,NA,professional
+NAPIER CAMPBELL,Solicitor,Stornoway,50,0,solicitor,NA,professional
+ALEXANDER MACGREGOR,Solicitor,Lerwick,31,0,solicitor,NA,professional
+JOHN M'CALLUM,Solicitor,Tobermory,62,0,solicitor,NA,professional
+JAMES BRIMS,Solicitor and Factor for Mr Traill of Ratter,Thurso,55,0,solicitor and factor for mr traill of ratter,NA,professional
+JOHN FRASER SIM,Solicitor and Land Agent,Oban,41,0,solicitor and land agent,NA,professional
+NIGEL BANKS MACKENZIE,"Solicitor,  and Factor on the Estate of Arisaig",Fort William,44,0,"solicitor,  and factor on the estate of arisaig",NA,professional
+LAURENCE JARMSON,South Connigsburgh,NA,42,0,south connigsburgh,NA,other
+DONALD CURRIE,South Loch Boisdale,Crofter and sometimes Fisherman,47,0,south loch boisdale,NA,other
+MURDO MACKAY,Struanbeg,NA,60,0,struanbeg,NA,other
+ANGUS MACLENNAN,Sub-Factor,South Uist,40,0,sub-factor,NA,professional
+HUGH MACDIARMID,Sub-Factor to the Duke of Argyll,Tyree,38,0,sub-factor to the duke of argyll,NA,professional
+CHARLES ROBERTSON,Surgeon,Achtercairn,58,0,surgeon,NA,professional
+ALEXANDER BUCHANAN,Surgeon,Tyree,46,0,surgeon,NA,professional
+D. W. M'GILLIVRAY,Surgeon and Farmer,Eoligary,74,0,surgeon and farmer,NA,land_worker
+DONALD C. CAMERON,Tacksman of Glen Brittle,NA,nan,1,tacksman of glen brittle,big,landowner
+JOHN M'LEOD,Tacksman of Monkstadt,NA,60,1,tacksman of monkstadt,big,landowner
+ALEXANDER MACDONALD,Tacksman of Ord,NA,51,1,tacksman of ord,big,landowner
+ALEXANDER MACDONALD,Tacksman of Ord,NA,51,1,tacksman of ord,big,landowner
+DONALD COLIN CAMERON,Tacksman of Tallisker,NA,56,1,tacksman of tallisker,big,landowner
+WILLIAM HUGH MACKAY,"Tailor,  formerly Fisherman",Insheigra,61,0,"tailor,  formerly fisherman",NA,labourer
+RONALD MACDONALD,Taransay,NA,48,0,taransay,NA,other
+JOHN MUNRO,Teacher,Lionel,23,0,teacher,NA,professional
+DAVID OGILVY,Teacher,Mid Yell,25,0,teacher,NA,professional
+ANDREW ROSS,Teacher,Paisley,61,0,teacher,NA,professional
+ANGUS SUTHERLAND,Teacher in the Glasgow Academy,NA,30,0,teacher in the glasgow academy,NA,professional
+JOHN SPENCE,Teacher of Board School and Inspector of Poor,Nesting,45,0,teacher of board school and inspector of poor,NA,professional
+JAMES WILSON,Teacher of the Public School,Baligarve,32,0,teacher of the public school,NA,professional
+JAMES PURVES,Tenant Farmer,"Barrowgill Mains,  Caithness",56,0,tenant farmer,NA,land_worker
+JAMES TWATT,Tenant of Rothiesholm,Stronsay,40,0,tenant of rothiesholm,NA,land_worker
+ALEXANDER M'LEOD,Unapool,NA,68,0,unapool,NA,other
+CHARLES SHAW,W.S. Sheriff-Substitute,Lochmaddy Inverness-shire,72,0,w.s. sheriff-substitute,NA,professional
+ALEXANDER WILSON,West Puldrite,Rendall,40,0,west puldrite,NA,other
+ALEXANDER HARPER HOMERON,Westing,NA,72,0,westing,NA,other
+Mrs ANN MURRAY,Widow,Cattlefield,42,0,widow,NA,other
+Mrs GEORGINA INKSTER,wife of HUGH INKSTER,"Hammer,  Rousay",35,0,wife of hugh inkster,NA,other
+RODERICK MACRAE,Crofter,Port-a-chullin,69,1,crofter,small,small_landowner
+MURDO SHAW,Crofter (formerly Fisherman),NA,-52,1,crofter (formerly fisherman),small,small_landowner
+JOHN M 'DONALD,Crottar,Lonmore,64,0,crottar,NA,other
+RANALD MACDONALD,Factor and Secretary to Lady Gordon Cathcart,Aberdeen,48,0,factor and secretary to lady gordon cathcart,NA,professional
+ADAM SCOTT,NA,Drynoch,25,NA,NA,NA,other
+ANGUS GILLIES,NA,NA,35,NA,NA,NA,other
+ANGUS STEWART,NA,NA,nan,NA,NA,NA,other
+DONALD BLACK,NA,Glasgow,44,NA,NA,NA,other
+DONALD M’LEAN,NA,Galtrigill,48,NA,NA,NA,other
+DONALD M'QUEEN,NA,Bracadale,90,NA,NA,NA,other
+DONALD MATHIESON,NA,Kneep,64,NA,NA,NA,other
+DONALD NICOLSON,NA,Solitote,78,NA,NA,NA,other
+JOHN M'SWAN,NA,NA,nan,NA,NA,NA,other
+JOHN MATHESON,NA,NA,nan,NA,NA,NA,other
+MALCOLM M'CASKILL,NA,NA,nan,NA,NA,NA,other
+Mr Cameron.,NA,NA,nan,NA,NA,NA,other
+Mr Ranald Macdonald,NA,NA,nan,NA,NA,NA,other
+NEIL MACKINNON,NA,Elgoll,nan,NA,NA,NA,other
+Rev. JOHN MACKAY,NA,NA,67,NA,NA,NA,other
+Widow MARION MATHIESON,NA,Waterloo,60,NA,NA,NA,other
+NA,NA,NA,NA,NA,NA,NA,other
+NA,NA,NA,NA,NA,NA,NA,other
+NA,NA,NA,nan,NA,NA,NA,other
+NA,NA,NA,NA,NA,NA,NA,other
+NA,NA,NA,NA,NA,NA,NA,other
+NA,NA,NA,NA,NA,NA,NA,other
+NA,NA,NA,NA,NA,NA,NA,other
+NA,NA,NA,NA,NA,NA,NA,other
+NA,NA,NA,NA,NA,NA,NA,other
+The Chairman.,NA,NA,nan,NA,NA,NA,other
+Rev. JAMES BARCLAY,NA,NA,80,NA,NA,NA,other
+MATTHEW ROBERTSON,NA,Mid Yell,69,NA,NA,NA,other
+DAVID CHARLES EDMONSTON,NA,NA,46,NA,NA,NA,other
+ERASMUS DOULL,NA,"North Roe, North Mavin",70,NA,NA,NA,other
+ALEXANDER INKSTER,NA,NA,29,NA,NA,NA,other
+JAMES GARRIOCK,NA,Reawick,49,NA,NA,NA,other
+JOHN BRUCE,NA,NA,nan,NA,NA,NA,other
+WILLIAM SINCLAIR,NA,Torrarait,55,NA,NA,NA,other
+C,NA,NA,nan,NA,NA,NA,other
+ALLAN MACKENZIE,NA,NA,-78,NA,NA,NA,other
+ALEXANDER MACKENZIE,NA,NA,42,NA,NA,NA,other
+DUNCAN SINCLAIR,NA,NA,nan,NA,NA,NA,other
+NA,NA,NA,NA,NA,NA,NA,other
+NA,NA,NA,NA,NA,NA,NA,other
+JOSEPH PEACOCK,NA,NA,nan,NA,NA,NA,other
+DUNCAN DARROCH,NA,Gourock and Torridon,47,NA,NA,NA,other
+CHARLES J. BREWSTER MACPHERSON of Belleville,NA,NA,nan,NA,NA,NA,other
