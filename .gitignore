@@ -1,0 +1,11 @@
+data/output/*
+!data/output/cosine_sim.csv
+!data/output/MAIN_DATA.rds
+data/raw/*
+!data/raw/napier_index.csv
+models/*
+!models/sent_stm_model_v2.stm
+**/.DS_Store
+**/.Rhistory
+**/__pycache__
+**/.env
